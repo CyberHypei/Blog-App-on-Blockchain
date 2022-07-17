@@ -1,6 +1,6 @@
 # Blockchain
 
-##Compile and Deploy
+## Compile and Deploy
 
 npx hardhat clean
 npx hardhat compile
